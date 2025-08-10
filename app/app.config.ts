@@ -1,7 +1,7 @@
 export default defineAppConfig({
   global: {
     meetingLink: 'https://cal.com/hugorcd/15min',
-    available: true,
+    available: '',
   },
   profile: {
     name: 'Hugo Richard',
@@ -11,7 +11,7 @@ export default defineAppConfig({
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
+    github: 'https://github.com/VelazqueZzz',
     twitter: 'https://twitter.com/HugoRCD__',
     linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
     instagram: 'https://www.instagram.com/hugo.rcd_',
